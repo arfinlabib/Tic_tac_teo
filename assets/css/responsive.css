@@ -1,0 +1,16 @@
+/* Large divaice  */
+@media (min-width:992px) and (max-width:1199.98px) {}
+
+/* larg divaice end  */
+/* mediam divaice start  */
+@media (min-width:768px) and (max-width:991.98px) {}
+
+/* mediam divaice end  */
+/* small divaice start  */
+@media (min-width:576px) and (max-width:767.98px) {}
+
+/* small divaice end  */
+/* extra small divaice start  */
+@media (max-width:575.98px) {}
+
+/* extra small divaice end  *
